@@ -8,4 +8,4 @@ Then to run the test run: npm run test
 
 
 ## Link
-[Link to Webpage](https://rubbokate.github.io/Good-Readme-Generator/
+[Link to Webpage](https://rubbokate.github.io/teamprofilegen/
